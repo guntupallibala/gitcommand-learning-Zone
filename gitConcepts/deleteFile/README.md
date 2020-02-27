@@ -3,7 +3,7 @@
 
 ## way1:
 ```
-step1: delete file in work in tree
+step1: delete file in working area
 step2: add file to staging area, for that use command "git add ."
 step3: changes commit to local repository, for use :  " git commit -m "commit message"
 step4: git push origin branch-name   
